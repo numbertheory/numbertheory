@@ -33,14 +33,14 @@ In my current role, I'm working on the infrastructure that standardizes how sour
 
 ### Currently Learning
 
-- Rust
+- Rust 🦀
 - Go
 
-### How To Reach Me
+### 📧 How To Reach Me
 
 jetcheber-at-gmail-dot-com
 
-### Pronouns
+### 🙋🏻‍♂️ Pronouns
 
 he/him
 
