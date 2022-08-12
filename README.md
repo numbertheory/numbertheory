@@ -1,4 +1,4 @@
-<img src="docker-banner.jpg"
+<img src="ci_tools_banner.jpg"
      style="float: left; margin-right: 10px;" />
 
 ## JP Etcheber
