@@ -1,3 +1,6 @@
+<img src="docker-banner.jpg"
+     style="float: left; margin-right: 10px;" />
+
 ## JP Etcheber
 
 ### Current Position (Autodesk Inc.)
