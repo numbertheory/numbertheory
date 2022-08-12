@@ -17,6 +17,7 @@ In my current role, I'm working on the infrastructure that standardizes how sour
 - Optimization of onboarding and access
 - Standardizaion of Docker containers, and deployment pipelines
 - Compliance with security standards and pushing for overall security hardening of all services
+- Migration of legacy services to more modern architecture
 
 ### Languages with most experience
 
