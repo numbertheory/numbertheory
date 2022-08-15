@@ -1,6 +1,6 @@
-<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;opacity: 0.25;" src="ci_tools_banner_perspective.png">
+<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;" src="ci_tools_banner_perspective2.png">
 
-<div style="margin-top: 300px;">
+<div>
 
 ## JP Etcheber
 
