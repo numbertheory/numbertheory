@@ -1,6 +1,4 @@
-<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;" src="ci_tools_banner_perspective2.png">
-
-<div>
+<div style="background-image: url('ci_tools_banner_perspective.png');opacity:0.2; background-repeat: no-repeat;">
 
 ## JP Etcheber
 
