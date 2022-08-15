@@ -1,20 +1,4 @@
-<style>
-.bg-banner {
-     height: 300px;
-     width: 100%;
-     float: right;
-     margin-left: 50px;
-     margin-right: 10px;
-     position: absolute;
-     opacity: 0.5;
-}
-.main-content {
-     margin-top: 0px;
-}
-</style> 
-
-<img class="bg-banner" src="ci_tools_banner_perspective.png">
-<div class="main-content">
+<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;position: absolute;opacity: 0.5;" src="ci_tools_banner_perspective.png">
 
 ## JP Etcheber
 
@@ -65,5 +49,3 @@ he/him
 ### Fun Fact
 
 It’s impossible to hum while holding your nose.
-
-</div>
