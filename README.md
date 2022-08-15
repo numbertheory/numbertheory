@@ -1,4 +1,6 @@
-<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;position: absolute;opacity: 0.5;" src="ci_tools_banner_perspective.png">
+<img style="height: 300px;width: 100%;float: right;margin-left: 50px;margin-right: 10px;opacity: 0.5;" src="ci_tools_banner_perspective.png">
+
+<div style="margin-top: 300px;">
 
 ## JP Etcheber
 
@@ -49,3 +51,4 @@ he/him
 ### Fun Fact
 
 It’s impossible to hum while holding your nose.
+</div>
