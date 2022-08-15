@@ -1,5 +1,3 @@
-<div style="background-image: url('ci_tools_banner_perspective.png');background-repeat:no-repeat;">
-
 ## JP Etcheber
 
 ### Current Position (Autodesk Inc.)
@@ -20,6 +18,17 @@ In my current role, I'm working on the infrastructure that standardizes how sour
 - Standardizaion of Docker containers, and deployment pipelines
 - Compliance with security standards and pushing for overall security hardening of all services
 - Migration of legacy services to more modern architecture
+
+### Professional Interests
+
+- Developer Relations
+     - How can an organization foster a responsibility-first culture?
+     - What **can** automation do to drive a responsibility-first culture?
+     - What **can't** automation do to drive a responsibility-first culture?
+- Canonical Productivity Solutions
+     - What should a software engineering organization look for in productivity tool?
+     - What can we learn from git?
+     - What can we learn from the failure of wikis?
 
 ### Languages with most experience
 
