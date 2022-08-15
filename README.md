@@ -1,5 +1,18 @@
-<img src="ci_tools_banner.jpg"
-     style="float: left; margin-right: 10px;" />
+<style>
+.bg-banner {
+     height: 385px;
+     float: right;
+     margin-left: 0px;
+     margin-right: auto;
+     background-image: url("ci_tools_banner_perspective.png")
+}
+.main-content {
+     margin-top: 335px;
+}
+</style> 
+
+<div class="bg-banner">
+<div class="main-content">
 
 ## JP Etcheber
 
@@ -50,3 +63,7 @@ he/him
 ### Fun Fact
 
 It’s impossible to hum while holding your nose.
+
+</div>
+</div>
+</div>
