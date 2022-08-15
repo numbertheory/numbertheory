@@ -1,4 +1,11 @@
-<div style="background-image: url('ci_tools_banner_perspective.png');opacity:0.2; background-repeat: no-repeat;">
+<head><style>
+div image { 
+     background-image: url('ci_tools_banner_perspective.png');
+     opacity:0.2;
+     background-repeat: no-repeat;
+}
+</style></head>
+<div>
 
 ## JP Etcheber
 
