@@ -50,6 +50,7 @@ In my current role, I'm working on the infrastructure that standardizes how sour
 ### 📧 How To Reach Me
 
 jetcheber-at-gmail-dot-com
+<a rel="me" href="https://hachyderm.io/@numbertheory">@numbertheory@hachyderm.io</a>
 
 ### 🙋🏻‍♂️ Pronouns
 
